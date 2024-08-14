@@ -1,0 +1,14 @@
+{
+  "name": "thaipost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sindhu aish",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
